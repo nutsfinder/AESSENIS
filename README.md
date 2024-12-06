@@ -123,10 +123,4 @@ NDVI is a critical metric for assessing vegetation health. This framework includ
 
 2. **Software**:  
    - Python 3.7+  
-   - Required libraries: `rasterio`, `numpy`, `matplotlib`  
-
-### Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo/satellite-powered-framework.git
-   cd satellite-powered-framework
+   - Required libraries: `rasterio`, `numpy`, `matplotlib`
